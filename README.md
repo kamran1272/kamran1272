@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kamran1272/kamrankhan/main/assets/banner1.png" alt="Kamran Khan — Full-Stack Developer" width="1200" />
+  <img src="assets/banner.jpg" alt="Kamran Khan — Frontend and Full-Stack Developer (React.js, Laravel)" width="1200" />
 </p>
 
-<h1 align="center">Hi there, I'm Kamran Khan 👋</h1>
-<h3 align="center">Full-Stack Developer · React.js & Laravel · Lahore, Pakistan</h3>
+<h1 align="center">Kamran Khan — Full-Stack Developer (React.js & Laravel)</h1>
+<h3 align="center">Building scalable web apps with modern frameworks · Lahore, Pakistan</h3>
 
 <p align="center">
-  <a href="https://www.upwork.com/freelancers/~01cb7445d5ef7df0ae?mp_source=share"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/></a>
-  <a href="https://www.linkedin.com/in/kamran-khan-4477a3383"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:kamranofficial7212@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.upwork.com/freelancers/~01cb7445d5ef7df0ae?mp_source=share"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Hire Kamran Khan on Upwork"/></a>
+  <a href="https://www.linkedin.com/in/kamran-khan-4477a3383"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Kamran Khan on LinkedIn"/></a>
+  <a href="mailto:kamranofficial7212@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Kamran Khan"/></a>
 </p>
 
 <p align="center">
@@ -19,19 +19,19 @@
 
 ### 🚀 About Me
 
-I'm a **Full-Stack Developer** specializing in **React.js** and **Laravel**, turning ideas into clean, modern, and user-friendly web applications. I care about responsive design, clean code, and shipping products that people enjoy using.
+I'm **Kamran Khan**, a **Full-Stack Developer** specializing in **React.js** and **Laravel**. I turn ideas into clean, scalable, user-friendly web applications — from responsive frontends to robust backends and REST APIs.
 
 - 🔭 Currently building with **React.js, TypeScript & Laravel**
-- 🌱 Always learning — currently deepening my TypeScript and full-stack architecture skills
-- 💼 Open to freelance projects and collaborations — [let's talk](https://www.upwork.com/freelancers/~01cb7445d5ef7df0ae?mp_source=share)
-- 📍 Based in **Lahore, Pakistan** · working with clients worldwide
+- 🌱 Deepening my expertise in TypeScript and full-stack architecture
+- 💼 **Open to freelance projects** — [let's work together](https://www.upwork.com/freelancers/~01cb7445d5ef7df0ae?mp_source=share)
+- 📍 Based in **Lahore, Pakistan** · collaborating with clients worldwide
 
 ---
 
 ### 🛠️ Tech Stack
 
 **Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React.js](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
@@ -42,6 +42,7 @@ I'm a **Full-Stack Developer** specializing in **React.js** and **Laravel**, tur
 **Backend**
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **Tools**
@@ -67,9 +68,22 @@ I'm a **Full-Stack Developer** specializing in **React.js** and **Laravel**, tur
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kamran1272&show_icons=true&theme=radical&hide_border=true" alt="Kamran's GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamran1272&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kamran1272&show_icons=true&theme=radical&hide_border=true" alt="Kamran Khan's GitHub statistics" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamran1272&layout=compact&theme=radical&hide_border=true" alt="Most used programming languages" height="160"/>
 </p>
+
+---
+
+### 💼 Freelance Services
+
+Need a developer for your next project? I offer:
+
+- 🌐 **Frontend Development** — responsive React.js / JavaScript interfaces
+- ⚙️ **Backend Development** — Laravel APIs, authentication, MySQL databases
+- 🛒 **E-Commerce Solutions** — catalogs, carts, checkout flows
+- 🔧 **Bug Fixes & Optimization** — performance and code quality improvements
+
+📩 **[Hire me on Upwork](https://www.upwork.com/freelancers/~01cb7445d5ef7df0ae?mp_source=share)** or reach out directly below.
 
 ---
 
