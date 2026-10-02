@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.jpg" alt="Kamran Khan — Frontend and Full-Stack Developer (React.js, Laravel)" width="1200" />
+  <img src="banner.jpg" alt="Kamran Khan — Frontend and Full-Stack Developer (React.js, Laravel)" width="1200" />
 </p>
 
 <h1 align="center">Kamran Khan — Full-Stack Developer (React.js & Laravel)</h1>
