@@ -7,8 +7,12 @@
 
 <p align="center">
   <a href="https://www.upwork.com/freelancers/~01cb7445d5ef7df0ae?mp_source=share"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Hire Kamran Khan on Upwork"/></a>
-  <a href="https://www.linkedin.com/in/kamran-khan-4477a3383"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Kamran Khan on LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/kamran-khan-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Kamran Khan on LinkedIn"/></a>
   <a href="mailto:kamranofficial7212@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Kamran Khan"/></a>
+  <a href="https://www.tiktok.com/@minutosecreto.tv"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="Kamran Khan on TikTok"/></a>
+  <a href="https://wa.me/923307162505"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Chat on WhatsApp"/></a>
+  <a href="https://www.facebook.com/profile.php?id=61594851942990"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Kamran Khan on Facebook"/></a>
+  <a href="https://www.youtube.com/@BloxversoTV"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Bloxverso on YouTube"/></a>
 </p>
 
 <p align="center">
@@ -90,8 +94,12 @@ Need a developer for your next project? I offer:
 ### 📫 Let's Connect
 
 - 💼 **Upwork:** [hire me for your project](https://www.upwork.com/freelancers/~01cb7445d5ef7df0ae?mp_source=share)
-- 🔗 **LinkedIn:** [Kamran Khan](https://www.linkedin.com/in/kamran-khan-4477a3383)
+- 🔗 **LinkedIn:** [Kamran Khan](https://www.linkedin.com/in/kamran-khan-dev)
 - 📧 **Email:** [kamranofficial7212@gmail.com](mailto:kamranofficial7212@gmail.com)
+- 🎵 **TikTok:** [@minutosecreto.tv](https://www.tiktok.com/@minutosecreto.tv)
+- 📱 **WhatsApp:** [+92 330 7162505](https://wa.me/923307162505)
+- 📘 **Facebook:** [Kamran Khan - Full-Stack Web Developer](https://www.facebook.com/profile.php?id=61594851942990)
+- 🎬 **YouTube:** [Bloxverso](https://www.youtube.com/@BloxversoTV)
 
 ---
 
