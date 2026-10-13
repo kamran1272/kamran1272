@@ -1,1 +1,108 @@
-PHAgYWxpZ249ImNlbnRlciI+CiAgPGltZyBzcmM9ImJhbm5lci5qcGciIGFsdD0iS2FtcmFuIEtoYW4g4oCUIEZyb250ZW5kIGFuZCBGdWxsLVN0YWNrIERldmVsb3BlciAoUmVhY3QuanMsIExhcmF2ZWwpIiB3aWR0aD0iMTIwMCIgLz4KPC9wPgoKPGgxIGFsaWduPSJjZW50ZXIiPkthbXJhbiBLaGFuIOKAlCBGdWxsLVN0YWNrIERldmVsb3BlciAoUmVhY3QuanMgJiBMYXJhdmVsKTwvaDE+CjxoMyBhbGlnbj0iY2VudGVyIj5CdWlsZGluZyBzY2FsYWJsZSB3ZWIgYXBwcyB3aXRoIG1vZGVybiBmcmFtZXdvcmtzIMK3IExhaG9yZSwgUGFraXN0YW48L2gzPgoKPHAgYWxpZ249ImNlbnRlciI+CiAgPGEgaHJlZj0iaHR0cHM6Ly93d3cudXB3b3JrLmNvbS9mcmVlbGFuY2Vycy9+MDFjYjc0NDVkNWVmN2RmMGFlP21wX3NvdXJjZT1zaGFyZSI+PGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvVXB3b3JrLTZGREE0ND9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289dXB3b3JrJmxvZ29Db2xvcj13aGl0ZSIgYWx0PSJIaXJlIEthbXJhbiBLaGFuIG9uIFVwd29yayIvPjwvYT4KICA8YSBocmVmPSJodHRwczovL3d3dy5saW5rZWRpbi5jb20vaW4va2FtcmFuLWtoYW4tZGV2Ij48aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9MaW5rZWRJbi0wQTY2QzI/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPWxpbmtlZGluJmxvZ29Db2xvcj13aGl0ZSIgYWx0PSJLYW1yYW4gS2hhbiBvbiBMaW5rZWRJbiIvPjwvYT4KICA8YSBocmVmPSJtYWlsdG86a2FtcmFub2ZmaWNpYWw3MjEyQGdtYWlsLmNvbSI+PGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvRW1haWwtRDE0ODM2P3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz1nbWFpbCZsb2dvQ29sb3I9d2hpdGUiIGFsdD0iRW1haWwgS2FtcmFuIEtoYW4iLz48L2E+CiAgPGEgaHJlZj0iaHR0cHM6Ly93d3cudGlrdG9rLmNvbS9Aa2FtcmFuX21hZ3NpMTIiPjxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL1Rpa1Rvay0wMDAwMDA/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPXRpa3RvayZsb2dvQ29sb3I9d2hpdGUiIGFsdD0iS2FtcmFuIEtoYW4gb24gVGlrVG9rIi8+PC9hPgogIDxhIGhyZWY9Imh0dHBzOi8vd2EubWUvOTIzMzA3MTYyNTA1Ij48aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9XaGF0c0FwcC0yNUQzNjY/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPXdoYXRzYXBwJmxvZ29Db2xvcj13aGl0ZSIgYWx0PSJDaGF0IG9uIFdoYXRzQXBwIi8+PC9hPgogIDxhIGhyZWY9Imh0dHBzOi8vd3d3LmZhY2Vib29rLmNvbS9zYXJkYXJrYW1yYW4ua2hhbm1hZ3NpIj48aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9GYWNlYm9vay0xODc3RjI/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPWZhY2Vib29rJmxvZ29Db2xvcj13aGl0ZSIgYWx0PSJLYW1yYW4gS2hhbiBvbiBGYWNlYm9vayIvPjwvYT4KICA8YSBocmVmPSJodHRwczovL3d3dy5pbnN0YWdyYW0uY29tL2thbXJhbl9raGFuNzI4LyI+PGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvSW5zdGFncmFtLUU0NDA1Rj9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289aW5zdGFncmFtJmxvZ29Db2xvcj13aGl0ZSIgYWx0PSJLYW1yYW4gS2hhbiBvbiBJbnN0YWdyYW0iLz48L2E+CiAgPGEgaHJlZj0iaHR0cHM6Ly93d3cudGhyZWFkcy5jb20vQGthbXJhbl9raGFuNzI4Ij48aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9UaHJlYWRzLTAwMDAwMD9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289dGhyZWFkcyZsb2dvQ29sb3I9d2hpdGUiIGFsdD0iS2FtcmFuIEtoYW4gb24gVGhyZWFkcyIvPjwvYT4KPC9wPgoKPHAgYWxpZ249ImNlbnRlciI+CiAgPGltZyBzcmM9Imh0dHBzOi8va29tYXJldi5jb20vZ2hwdmMvP3VzZXJuYW1lPWthbXJhbjEyNzImbGFiZWw9UHJvZmlsZSt2aWV3cyZjb2xvcj0wZTc1YjYmc3R5bGU9ZmxhdCIgYWx0PSJQcm9maWxlIHZpZXdzIi8+CjwvcD4KCi0tLQoKIyMjIPCfmoAgQWJvdXQgTWUKCkknbSAqKkthbXJhbiBLaGFuKiosIGEgKipGdWxsLVN0YWNrIERldmVsb3BlcioqIHNwZWNpYWxpemluZyBpbiAqKlJlYWN0LmpzKiogYW5kICoqTGFyYXZlbCoqLiBJIHR1cm4gaWRlYXMgaW50byBjbGVhbiwgc2NhbGFibGUsIHVzZXItZnJpZW5kbHkgd2ViIGFwcGxpY2F0aW9ucyDigJQgZnJvbSByZXNwb25zaXZlIGZyb250ZW5kcyB0byByb2J1c3QgYmFja2VuZHMgYW5kIFJFU1QgQVBJcy4KCi0g8J+UrSBDdXJyZW50bHkgYnVpbGRpbmcgd2l0aCAqKlJlYWN0LmpzLCBUeXBlU2NyaXB0ICYgTGFyYXZlbCoqCi0g8J+MsSBEZWVwZW5pbmcgbXkgZXhwZXJ0aXNlIGluIFR5cGVTY3JpcHQgYW5kIGZ1bGwtc3RhY2sgYXJjaGl0ZWN0dXJlCi0g8J+SvCAqKk9wZW4gdG8gZnJlZWxhbmNlIHByb2plY3RzKiog4oCUIFtsZXQncyB3b3JrIHRvZ2V0aGVyXShodHRwczovL3d3dy51cHdvcmsuY29tL2ZyZWVsYW5jZXJzL34wMWNiNzQ0NWQ1ZWY3ZGYwYWU/bXBfc291cmNlPXNoYXJlKQotIPCfk40gQmFzZWQgaW4gKipMYWhvcmUsIFBha2lzdGFuKiogwrcgY29sbGFib3JhdGluZyB3aXRoIGNsaWVudHMgd29ybGR3aWRlCgotLS0KCiMjIyDwn5ug77iPIFRlY2ggU3RhY2sKCioqRnJvbnRlbmQqKgohW1JlYWN0LmpzXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL1JlYWN0LmpzLTIwMjMyQT9zdHlsZT1mbGF0LXNxdWFyZSZsb2dvPXJlYWN0JmxvZ29Db2xvcj02MURBRkIpCiFbSmF2YVNjcmlwdF0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9KYXZhU2NyaXB0LUY3REYxRT9zdHlsZT1mbGF0LXNxdWFyZSZsb2dvPWphdmFzY3JpcHQmbG9nb0NvbG9yPWJsYWNrKQohW1R5cGVTY3JpcHRdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvVHlwZVNjcmlwdC0zMTc4QzY/c3R5bGU9ZmxhdC1zcXVhcmUmbG9nbz10eXBlc2NyaXB0JmxvZ29Db2xvcj13aGl0ZSkKIVtUYWlsd2luZCBDU1NdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvVGFpbHdpbmRfQ1NTLTA2QjZEND9zdHlsZT1mbGF0LXNxdWFyZSZsb2dvPXRhaWx3aW5kY3NzJmxvZ29Db2xvcj13aGl0ZSkKIVtCb290c3RyYXBdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvQm9vdHN0cmFwLTc5NTJCMz9zdHlsZT1mbGF0LXNxdWFyZSZsb2dvPWJvb3RzdHJhcCZsb2dvQ29sb3I9d2hpdGUpCiFbSFRNTDVdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvSFRNTDUtRTM0RjI2P3N0eWxlPWZsYXQtc3F1YXJlJmxvZ289aHRtbDUmbG9nb0NvbG9yPXdoaXRlKQohW0NTUzNdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvQ1NTMy0xNTcyQjY/c3R5bGU9ZmxhdC1zcXVhcmUmbG9nbz1jc3MzJmxvZ29Db2xvcj13aGl0ZSkKCioqQmFja2VuZCoqCiFbTGFyYXZlbF0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9MYXJhdmVsLUZGMkQyMD9zdHlsZT1mbGF0LXNxdWFyZSZsb2dvPWxhcmF2ZWwmbG9nb0NvbG9yPXdoaXRlKQohW1BIUF0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9QSFAtNzc3QkI0P3N0eWxlPWZsYXQtc3F1YXJlJmxvZ289cGhwJmxvZ29Db2xvcj13aGl0ZSkKIVtOb2RlLmpzXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL05vZGUuanMtMzM5OTMzP3N0eWxlPWZsYXQtc3F1YXJlJmxvZ289bm9kZWRvdGpzJmxvZ29Db2xvcj13aGl0ZSkKIVtNeVNRTF0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9NeVNRTC00NDc5QTE/c3R5bGU9ZmxhdC1zcXVhcmUmbG9nbz1teXNxbCZsb2dvQ29sb3I9d2hpdGUpCgoqKlRvb2xzKioKIVtHaXRdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvR2l0LUYwNTAzMj9zdHlsZT1mbGF0LXNxdWFyZSZsb2dvPWdpdCZsb2dvQ29sb3I9d2hpdGUpCiFbR2l0SHViXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL0dpdEh1Yi0xODE3MTc/c3R5bGU9ZmxhdC1zcXVhcmUmbG9nbz1naXRodWImbG9nb0NvbG9yPXdoaXRlKQohW1JFU1QgQVBJXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL1JFU1RfQVBJLTAwOTY4OD9zdHlsZT1mbGF0LXNxdWFyZSZsb2dvPWZhc3RhcGkmbG9nb0NvbG9yPXdoaXRlKQoKLS0tCgojIyMg8J+PhiBGZWF0dXJlZCBQcm9qZWN0cwoKfCBQcm9qZWN0IHwgRGVzY3JpcHRpb24gfCBTdGFjayB8CnwtLS0tLS0tLS18LS0tLS0tLS0tLS0tLXwtLS0tLS0tfAp8IFtLaWNrWm9uZV0oaHR0cHM6Ly9naXRodWIuY29tL2thbXJhbjEyNzIva2lja3pvbmUpIHwgU3BvcnRzIG1hbmFnZW1lbnQgc3lzdGVtIOKAlCByb2xlLWJhc2VkIHBsYXRmb3JtIGZvciBtYW5hZ2luZyB0ZWFtcywgcGxheWVycywgYW5kIGV2ZW50cyAqKEZpbmFsIFllYXIgUHJvamVjdCkqIHwgTGFyYXZlbCB8CnwgW1ZlbmRvcmFdKGh0dHBzOi8vZ2l0aHViLmNvbS9rYW1yYW4xMjcyL1ZlbmRvcmFfZWNvbSkgfCBGdWxsLWZlYXR1cmVkIGUtY29tbWVyY2UgYXBwbGljYXRpb24gd2l0aCBwcm9kdWN0IGNhdGFsb2csIGNhcnQsIGFuZCBjaGVja291dCB8IFR5cGVTY3JpcHQgfAp8IFtTdXJmc2lkZV0oaHR0cHM6Ly9naXRodWIuY29tL2thbXJhbjEyNzIvU3VyZnNpZGUpIHwgRS1jb21tZXJjZSB3ZWJzaXRlIHdpdGggcHJvZHVjdCBjYXRhbG9nLCBjYXJ0LCBhbmQgY2hlY2tvdXQgZmxvdyB8IExhcmF2ZWwgfAp8IFtQb3J0Zm9saW9dKGh0dHBzOi8vZ2l0aHViLmNvbS9rYW1yYW4xMjcyL3BvcnRmb2xpbykgfCBQZXJzb25hbCBwb3J0Zm9saW8gd2Vic2l0ZSB8IEphdmFTY3JpcHQgfAp8IFtSZXN0YXVyYW50IFdlYnNpdGVdKGh0dHBzOi8vZ2l0aHViLmNvbS9rYW1yYW4xMjcyL3Jlc3RhdXJhbnQtd2Vic2l0ZSkgfCBNb2Rlcm4gcmVzdGF1cmFudCB3ZWJzaXRlIHwgSmF2YVNjcmlwdCB8CnwgW015IEUtQ29tbWVyY2UgQXBwXShodHRwczovL2dpdGh1Yi5jb20va2FtcmFuMTI3Mi9teS1lY29tbWVyY2UtYXBwKSB8IEUtY29tbWVyY2Ugd2ViIGFwcGxpY2F0aW9uIHwgSmF2YVNjcmlwdCB8CgotLS0KCiMjIyDwn5OKIEdpdEh1YiBTdGF0cwoKPHAgYWxpZ249ImNlbnRlciI+CiAgPGltZyBzcmM9Imh0dHBzOi8vZ2l0aHViLXJlYWRtZS1zdGF0cy52ZXJjZWwuYXBwL2FwaT91c2VybmFtZT1rYW1yYW4xMjcyJnNob3dfaWNvbnM9dHJ1ZSZ0aGVtZT1yYWRpY2FsJmhpZGVfYm9yZGVyPXRydWUiIGFsdD0iS2FtcmFuIEtoYW4ncyBHaXRIdWIgc3RhdGlzdGljcyIgaGVpZ2h0PSIxNjAiLz4KICA8aW1nIHNyYz0iaHR0cHM6Ly9naXRodWItcmVhZG1lLXN0YXRzLnZlcmNlbC5hcHAvYXBpL3RvcC1sYW5ncy8/dXNlcm5hbWU9a2FtcmFuMTI3MiZsYXlvdXQ9Y29tcGFjdCZ0aGVtZT1yYWRpY2FsJmhpZGVfYm9yZGVyPXRydWUiIGFsdD0iTW9zdCB1c2VkIHByb2dyYW1taW5nIGxhbmd1YWdlcyIgaGVpZ2h0PSIxNjAiLz4KPC9wPgoKLS0tCgojIyMg8J+SvCBGcmVlbGFuY2UgU2VydmljZXMKCk5lZWQgYSBkZXZlbG9wZXIgZm9yIHlvdXIgbmV4dCBwcm9qZWN0PyBJIG9mZmVyOgoKLSDwn4yQICoqRnJvbnRlbmQgRGV2ZWxvcG1lbnQqKiDigJQgcmVzcG9uc2l2ZSBSZWFjdC5qcyAvIEphdmFTY3JpcHQgaW50ZXJmYWNlcwotIOKame+4jyAqKkJhY2tlbmQgRGV2ZWxvcG1lbnQqKiDigJQgTGFyYXZlbCBBUElzLCBhdXRoZW50aWNhdGlvbiwgTXlTUUwgZGF0YWJhc2VzCi0g8J+bkiAqKkUtQ29tbWVyY2UgU29sdXRpb25zKiog4oCUIGNhdGFsb2dzLCBjYXJ0cywgY2hlY2tvdXQgZmxvd3MKLSDwn5SnICoqQnVnIEZpeGVzICYgT3B0aW1pemF0aW9uKiog4oCUIHBlcmZvcm1hbmNlIGFuZCBjb2RlIHF1YWxpdHkgaW1wcm92ZW1lbnRzCgrwn5OpICoqW0hpcmUgbWUgb24gVXB3b3JrXShodHRwczovL3d3dy51cHdvcmsuY29tL2ZyZWVsYW5jZXJzL34wMWNiNzQ0NWQ1ZWY3ZGYwYWU/bXBfc291cmNlPXNoYXJlKSoqIG9yIHJlYWNoIG91dCBkaXJlY3RseSBiZWxvdy4KCi0tLQoKIyMjIPCfk6sgTGV0J3MgQ29ubmVjdAoKLSDwn5K8ICoqVXB3b3JrOioqIFtoaXJlIG1lIGZvciB5b3VyIHByb2plY3RdKGh0dHBzOi8vd3d3LnVwd29yay5jb20vZnJlZWxhbmNlcnMvfjAxY2I3NDQ1ZDVlZjdkZjBhZT9tcF9zb3VyY2U9c2hhcmUpCi0g8J+UlyAqKkxpbmtlZEluOioqIFtLYW1yYW4gS2hhbl0oaHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2luL2thbXJhbi1raGFuLWRldikKLSDwn5OnICoqRW1haWw6KiogW2thbXJhbm9mZmljaWFsNzIxMkBnbWFpbC5jb21dKG1haWx0bzprYW1yYW5vZmZpY2lhbDcyMTJAZ21haWwuY29tKQotIPCfjrUgKipUaWtUb2s6KiogW0BrYW1yYW5fbWFnc2kxMl0oaHR0cHM6Ly93d3cudGlrdG9rLmNvbS9Aa2FtcmFuX21hZ3NpMTIpCi0g8J+TsSAqKldoYXRzQXBwOioqIFsrOTIgMzMwIDcxNjI1MDVdKGh0dHBzOi8vd2EubWUvOTIzMzA3MTYyNTA1KQotIPCfk5ggKipGYWNlYm9vazoqKiBbS2FtcmFuIEtoYW4gTWFnc2ldKGh0dHBzOi8vd3d3LmZhY2Vib29rLmNvbS9zYXJkYXJrYW1yYW4ua2hhbm1hZ3NpKQotIPCfk7ggKipJbnN0YWdyYW06KiogW0BrYW1yYW5fa2hhbjcyOF0oaHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9rYW1yYW5fa2hhbjcyOC8pCi0g8J+ntSAqKlRocmVhZHM6KiogW0BrYW1yYW5fa2hhbjcyOF0oaHR0cHM6Ly93d3cudGhyZWFkcy5jb20vQGthbXJhbl9raGFuNzI4KQoKLS0tCgo8cCBhbGlnbj0iY2VudGVyIj7irZDvuI8gPGk+IkFsd2F5cyBsZWFybmluZywgYWx3YXlzIGJ1aWxkaW5nLiI8L2k+PC9wPgo=
+<p align="center">
+  <img src="banner.jpg" alt="Kamran Khan — Frontend and Full-Stack Developer (React.js, Laravel)" width="1200" />
+</p>
+
+<h1 align="center">Kamran Khan — Full-Stack Developer (React.js & Laravel)</h1>
+<h3 align="center">Building scalable web apps with modern frameworks · Lahore, Pakistan</h3>
+
+<p align="center">
+  <a href="https://www.upwork.com/freelancers/~01cb7445d5ef7df0ae?mp_source=share"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Hire Kamran Khan on Upwork"/></a>
+  <a href="https://www.linkedin.com/in/kamran-khan-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Kamran Khan on LinkedIn"/></a>
+  <a href="mailto:kamranofficial7212@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Kamran Khan"/></a>
+  <a href="https://www.tiktok.com/@kamran_magsi12"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="Kamran Khan on TikTok"/></a>
+  <a href="https://wa.me/923307162505"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Chat on WhatsApp"/></a>
+  <a href="https://www.facebook.com/sardarkamran.khanmagsi"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Kamran Khan on Facebook"/></a>
+  <a href="https://www.instagram.com/kamran_khan728/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Kamran Khan on Instagram"/></a>
+  <a href="https://www.threads.com/@kamran_khan728"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Kamran Khan on Threads"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kamran1272&label=Profile+views&color=0e75b6&style=flat" alt="Profile views"/>
+</p>
+
+---
+
+### 🚀 About Me
+
+I'm **Kamran Khan**, a **Full-Stack Developer** specializing in **React.js** and **Laravel**. I turn ideas into clean, scalable, user-friendly web applications — from responsive frontends to robust backends and REST APIs.
+
+- 🔭 Currently building with **React.js, TypeScript & Laravel**
+- 🌱 Deepening my expertise in TypeScript and full-stack architecture
+- 💼 **Open to freelance projects** — [let's work together](https://www.upwork.com/freelancers/~01cb7445d5ef7df0ae?mp_source=share)
+- 📍 Based in **Lahore, Pakistan** · collaborating with clients worldwide
+
+---
+
+### 🛠️ Tech Stack
+
+**Frontend**
+![React.js](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Backend**
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+---
+
+### 🏆 Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [KickZone](https://github.com/kamran1272/kickzone) | Sports management system — role-based platform for managing teams, players, and events *(Final Year Project)* | Laravel |
+| [Vendora](https://github.com/kamran1272/Vendora_ecom) | Full-featured e-commerce application with product catalog, cart, and checkout | TypeScript |
+| [Surfside](https://github.com/kamran1272/Surfside) | E-commerce website with product catalog, cart, and checkout flow | Laravel |
+| [Portfolio](https://github.com/kamran1272/portfolio) | Personal portfolio website | JavaScript |
+| [Restaurant Website](https://github.com/kamran1272/restaurant-website) | Modern restaurant website | JavaScript |
+| [My E-Commerce App](https://github.com/kamran1272/my-ecommerce-app) | E-commerce web application | JavaScript |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kamran1272&show_icons=true&theme=radical&hide_border=true" alt="Kamran Khan's GitHub statistics" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamran1272&layout=compact&theme=radical&hide_border=true" alt="Most used programming languages" height="160"/>
+</p>
+
+---
+
+### 💼 Freelance Services
+
+Need a developer for your next project? I offer:
+
+- 🌐 **Frontend Development** — responsive React.js / JavaScript interfaces
+- ⚙️ **Backend Development** — Laravel APIs, authentication, MySQL databases
+- 🛒 **E-Commerce Solutions** — catalogs, carts, checkout flows
+- 🔧 **Bug Fixes & Optimization** — performance and code quality improvements
+
+📩 **[Hire me on Upwork](https://www.upwork.com/freelancers/~01cb7445d5ef7df0ae?mp_source=share)** or reach out directly below.
+
+---
+
+### 📫 Let's Connect
+
+- 💼 **Upwork:** [hire me for your project](https://www.upwork.com/freelancers/~01cb7445d5ef7df0ae?mp_source=share)
+- 🔗 **LinkedIn:** [Kamran Khan](https://www.linkedin.com/in/kamran-khan-dev)
+- 📧 **Email:** [kamranofficial7212@gmail.com](mailto:kamranofficial7212@gmail.com)
+- 🎵 **TikTok:** [@kamran_magsi12](https://www.tiktok.com/@kamran_magsi12)
+- 📱 **WhatsApp:** [+92 330 7162505](https://wa.me/923307162505)
+- 📘 **Facebook:** [Kamran Khan Magsi](https://www.facebook.com/sardarkamran.khanmagsi)
+- 📸 **Instagram:** [@kamran_khan728](https://www.instagram.com/kamran_khan728/)
+- 🧵 **Threads:** [@kamran_khan728](https://www.threads.com/@kamran_khan728)
+
+---
+
+<p align="center">⭐️ <i>"Always learning, always building."</i></p>
